@@ -1,6 +1,7 @@
 {
   "conventionalCommits.scopes": [
     "overview",
-    "config"
+    "config",
+    "post"
   ]
 }
