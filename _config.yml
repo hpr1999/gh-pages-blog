@@ -4,7 +4,7 @@ email: hans.r.1999@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A blog or website that I mostly built in order to see how easy it is.
   Might contain the ramblings of a software engineer, nerd and thinker.
-theme: midnight
+theme: jekyll-theme-midnight
 # social links
 github_username: hpr1999 # DO NOT include the @ character, or else the build will fail!
 
