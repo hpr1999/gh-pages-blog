@@ -6,4 +6,4 @@ I'm glad you are here.
 
 Just kidding, who are you and how did you find this without any promotion?
 
-Hey, check out [this](./post.md)
+Hey, check out [this](./post.html)
