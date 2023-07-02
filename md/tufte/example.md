@@ -1,7 +1,7 @@
 ---
 title: An example of the Tufte Theme
 author: Hans Rißer
-include-before: <a href='./index.html'>Return to sender</a>
+subtitle: <a href='/index.html'>Return to sender</a>
 ---
 
 ## What is this?
