@@ -1,6 +1,7 @@
 ---
 title: An example of the Killercup Theme
 author: Hans Rißer
+subtitle: <a href='/index.html'>Return to sender</a>
 ---
 
 ## What is this?
